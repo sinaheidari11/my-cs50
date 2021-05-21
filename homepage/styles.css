@@ -1,0 +1,25 @@
+#name {
+    font-family: monspace;
+    font-size: 50px;
+    text-emphasis: underlin;
+    color: blue;
+    opacity: 2.00;
+}
+
+
+.about{
+    font-family: cursive;
+
+}
+
+h1{
+    color: orange;
+}
+
+li:hover{
+    color: pink;
+}
+
+h4.about {
+    color: green;
+}
